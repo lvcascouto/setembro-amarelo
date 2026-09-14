@@ -6,52 +6,65 @@
 
 **Site informativo dedicado à Campanha Setembro Amarelo 2024**
 
-*Primeiro projeto autoral — início da minha jornada na programação*
+*Início da minha jornada na programação*
 
-[![Status](https://img.shields.io/badge/status-desenvolvendo%20melhorias-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
-[![Finalidade](https://img.shields.io/badge/finalidade-estudo-e8e4de?style=flat-square&labelColor=orange&color=1c1b2e)]()&nbsp;
+[![Status](https://img.shields.io/badge/status-concluído-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
+[![Finalidade](https://img.shields.io/badge/finalidade-estudo-e8e4de?style=flat-square&labelColor=f59e0b&color=1c1b2e)]()&nbsp;
 [![Licença](https://img.shields.io/badge/licença-MIT-e8e4de?style=flat-square&labelColor=ef4444&color=1c1b2e)](./LICENSE)
 
 </div>
 
 <p align="center">
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#estrutura">Estrutura</a>
 </p>
 
-<h2 id="projeto">PROJETO</h2>
+<br>
 
-Site informativo dedicado à **Campanha Setembro Amarelo**, utilizando o material oficial da Campanha 2024, com o objetivo de **reunir informações essenciais e conectar pessoas a canais de apoio**, reforçando a **importância do cuidado com a saúde mental**.
+## SOBRE O PROJETO
 
-Este foi meu primeiro projeto autoral — desenvolvido para praticar HTML, CSS e JavaScript na construção de uma interface real, com propósito.
+Site informativo dedicado à **Campanha Setembro Amarelo**, desenvolvido com base nos materiais oficiais da campanha de 2024.
 
-🌐 [Acesse o site](https://lucas16716.github.io/setembro-amarelo/)&nbsp;&nbsp;|&nbsp;&nbsp;📸 [Sobre o projeto](https://www.instagram.com/p/DObHM7FkcN7/?img_index=1)
+O projeto foi criado com o objetivo de **reunir informações essenciais sobre o movimento, conscientizar sobre a importância do cuidado com a saúde mental e conectar pessoas a canais de apoio**.
 
-<h2 id="funcionalidades">FUNCIONALIDADES</h2>
+Este foi meu primeiro projeto autoral durante a jornada na programação, desenvolvido para praticar os fundamentos de **HTML, CSS e JavaScript** na construção de uma interface web com propósito social.
 
-- **Menu interativo** — rolagem suave para cada seção com menu que desliza e retorna conforme a navegação
+🌐 [Acesse o site](https://lvcascouto.github.io/setembro-amarelo/)&nbsp;&nbsp;|&nbsp;&nbsp;[Veja mais no Instagram](https://www.instagram.com/p/DObHM7FkcN7/?img_index=1)
+
+## FUNCIONALIDADES
+
+- **Menu interativo** — navegação entre as seções da página com rolagem suave e 
 - **Barra de pesquisa** — localização de palavras específicas no conteúdo do site
-- **Seções de conteúdo** — sobre o movimento, causas e prevenção, contatos de apoio, depoimentos e material oficial da campanha
-- **Botão "Voltar ao topo"** — navegação rápida para o início da página
-- **Barra de rolagem personalizada** — estilizada em amarelo, representando o tema
+- **Seções informativas** — apresentação do movimento, causas, prevenção e materiais da campanha
+- **Canais de apoio** — informações de contato e direcionamento para serviços de apoio
+- **Botão "Voltar ao topo"** — retorno rápido ao início da página
+- **Barra de rolagem personalizada** — estilização visual alinhada ao tema da campanha
 
-**Melhorias previstas para v2.0**
-- Design responsivo para diferentes dispositivos
-- Formulário para envio anônimo ou identificado de depoimentos
+## APRENDIZADO
 
-<h2 id="tecnologias">TECNOLOGIAS</h2>
+Durante o desenvolvimento, o projeto contribuiu para a prática de:
+
+* Estruturação de páginas com HTML semântico
+* Criação de layouts e estilos com CSS
+* Implementação de interações com JavaScript
+* Organização de arquivos e recursos de um projeto web
+* Publicação de um site utilizando GitHub Pages
+* Desenvolvimento de uma interface com propósito informativo e social
+
+## TECNOLOGIAS
 
 | Tecnologia | Uso |
 |---|---|
-| HTML5 | Estrutura semântica |
-| CSS3 | Estilos e layout |
-| JavaScript | Interatividade e lógica |
-| Git/GitHub | Versionamento de código |
-| Canva | logo, banner e mockup |
+| HTML5 | Estrutura semântica da página |
+| CSS3 | Estilos, layout e personalização visual |
+| JavaScript | Interatividade e lógica da aplicação |
+| Git/GitHub | Versionamento e hospedagem do projeto |
+| Canva | Desenvolvimento do logo, banner e mockup |
 
-<h2 id="estrutura">ESTRUTURA</h2>
+## ESTRUTURA
 
 ```
 setembro-amarelo/
@@ -60,8 +73,8 @@ setembro-amarelo/
 │   │   ├── banner/          → Banners da campanha
 │   │   ├── dv/              → Material de divulgação
 │   │   └── icons/           → Ícones do projeto
-│   ├── script.js            → JavaScript
-│   ├── style.css            → Estilos
+│   ├── script.js            → Lógica e interações em JavaScript
+│   ├── style.css            → Estilos e layout da página
 │   └── index.html           → Página principal
 ├── .gitignore
 ├── LICENSE
@@ -70,15 +83,16 @@ setembro-amarelo/
 
 ---
 
-<h2>AGRADECIMENTOS</h2>
-Agradeço à Alura, Google Gemini e aos instrutores que tornaram possível este aprendizado, além do apoio de todos os envolvidos na campanha Setembro Amarelo®. Vamos juntos conscientizar e salvar vidas!
+## AGRADECIMENTOS
 
-<h2>LICENÇA</h2>
+Agradeço à Alura, ao Google Gemini e aos instrutores que contribuíram para o início da minha jornada na programação, além de todos os envolvidos na campanha Setembro Amarelo®.
+
+## LICENÇA
 
 Este projeto está sob a licença MIT, que permite uso, modificação e distribuição para fins pessoais e comerciais.
 Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
-<h2>AUTOR </h2>
+## AUTOR 
 
-Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucas-coutoti).  
-Veja meu trabalho em [Lucas Code](https://bio.site/lucascode).
+Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucascouto-dev).  
+Veja meu trabalho em [Lucas Code](https://lvcascode.com.br).
